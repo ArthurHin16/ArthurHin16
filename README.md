@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.licdn.com/dms/image/D5603AQEt1Uidfb50IQ/profile-displayphoto-shrink_800_800/0/1713991576265?e=1720656000&v=beta&t=t4d7gdlXdZRqFIVpB9TAyrWsr6GA2lAsTBWMGtxX7Zo" alt="Arturo Hinojosa" width="200" height="200">
-  <h1>Hey There! I am Arturo Hinojosa 👨🏽‍💻</h1>
+  <h2>Hey There 👋 ! I am Arturo Hinojosa 👨🏽‍💻</h2>
   <p> Enthusiastic Software Engineer hailing proudly from Mexico 🇲🇽 🌮 ✨ <br>
     Come on in and explore the world of code with me! 👨‍💻</p>
 </div>
