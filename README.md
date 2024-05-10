@@ -1,18 +1,40 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Arturo Hinojosa</h1>
-<h3 align="center">Software Engineer from México 🇲🇽</h3>
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/D5603AQEt1Uidfb50IQ/profile-displayphoto-shrink_800_800/0/1713991576265?e=1720656000&v=beta&t=t4d7gdlXdZRqFIVpB9TAyrWsr6GA2lAsTBWMGtxX7Zo" alt="Arturo Hinojosa" width="200" height="200">
+  <h1>Hey There! I am Arturo Hinojosa 👨🏽‍💻</h1>
+  <p> Enthusiastic Software Engineer hailing proudly from Mexico 🇲🇽 🌮 ✨ <br>
+    Come on in and explore the world of code with me! 👨‍💻</p>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurhin16&label=Profile%20views&color=0e75b6&style=flat" alt="arthurhin16" /> </p>
+<div align="justify">
+  <h2>About Me</h2>
+  <p>Hello! I'm Arturo Hinojosa, a technology enthusiast with a passion for building innovative and scalable solutions. With experience in various technologies and a particular interest in artificial intelligence 🧠 and cybersecurity 👮🏽‍♂️, I love tackling complex challenges and constantly learning.</p>
+</div>
 
-- 🌱 I’m currently learning **Ruby and Spring Boot**
+<div align="center">
+  <h2 align="left">My Skills</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" alt="TypeScript">
+    <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" alt="Java">
+    <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat" alt="Ruby">
+    <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML">
+    <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat" alt="SASS">
+    <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS">
+    <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat" alt="Angular">
+    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" alt="React">
+    <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat" alt="Spring Boot">
+    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" alt="Node.js">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker">
+    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat" alt="Google Cloud">
+  </div>
+</div>
 
-- 📫 How to reach me **arturohin_16@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/félix arturo hinojosa reyna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="félix arturo hinojosa reyna" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arturohin16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arturohin16" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="lefy">
+  <h2>Interests</h2>
+  <ul>
+    <li>Web development (SaaS) 🌎</li>
+    <li>Artificial Intelligence 🤖</li>
+    <li>Cybersecurity 🚨</li>
+  </ul>
+</div>
