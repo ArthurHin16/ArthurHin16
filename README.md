@@ -3,6 +3,16 @@
   <h2>Hey There 👋 ! I am Arturo Hinojosa 👨🏽‍💻</h2>
   <p> Enthusiastic Software Engineer hailing proudly from Mexico 🇲🇽 🌮 ✨ <br>
     Come on in and explore the world of code with me! 👨‍💻</p>
+    <p dir="auto">
+      </a>
+      <a href="https://www.linkedin.com/in/arturo-hinojosa/" rel="nofollow">
+          <img src="https://camo.githubusercontent.com/a59bf6f177205e24215f5010b0206f1c6450fd207f13ae7d8b20b1562ae9120e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" style="max-width: 100%;">
+      </a>
+      <a href="https://leetcode.com/u/arturohin16/" rel="nofollow">
+          <img src="https://camo.githubusercontent.com/18f3ed31825c9c5628833df8afda87e99a0c566aaf1f82af597b2a8a3a4dfabf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6565745f436f64652d6536376532323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c656574636f6465266c6f676f436f6c6f723d7768697465" alt="LeetCode" style="max-width: 100%;">
+      </a>
+  </p>
+
 </div>
 
 <div align="justify">
