@@ -9,9 +9,6 @@
         <a href="https://leetcode.com/u/arturohin16/" target="_blank" rel="nofollow">
             <img src="https://camo.githubusercontent.com/18f3ed31825c9c5628833df8afda87e99a0c566aaf1f82af597b2a8a3a4dfabf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6565745f436f64652d6536376532323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c656574636f6465266c6f676f436f6c6f723d7768697465" alt="LeetCode" style="max-width: 100%;">
         </a>
-        <a href="https://drive.google.com/file/d/1Jk_XWZHU-32vbwxADOwtANExP-fQQVCq/view?usp=sharing" target="_blank" rel="nofollow">
-            <img src="https://camo.githubusercontent.com/fbe27833955c060af22fc8e54985affba90663ff5a04458fba1d6018599ab41b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6d6172696f2e656d696c696f2e6a40676d61696c2e636f6d2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6d6172696f2e656d696c696f2e6a40676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-mario.emilio.j@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:mario.emilio.j@gmail.com" style="max-width: 100%;">
-        </a>
     </p>
 </div>
 
