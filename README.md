@@ -9,6 +9,9 @@
         <a href="https://leetcode.com/u/arturohin16/" target="_blank" rel="nofollow">
             <img src="https://camo.githubusercontent.com/18f3ed31825c9c5628833df8afda87e99a0c566aaf1f82af597b2a8a3a4dfabf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c6565745f436f64652d6536376532323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c656574636f6465266c6f676f436f6c6f723d7768697465" alt="LeetCode" style="max-width: 100%;">
         </a>
+          <a href="https://drive.google.com/file/d/1Jk_XWZHU-32vbwxADOwtANExP-fQQVCq/view?usp=sharing" target="_blank" rel="nofollow">
+            <img src="https://camo.githubusercontent.com/28e4f96b5e0b3f8b6757a0b155b95b40c8f0782f937524ee24c31b4a8c1b8d67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d526573756d652d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d646f6373266c6f676f436f6c6f723d7768697465" alt="Resume" style="max-width: 100%;">
+        </a>
     </p>
 </div>
 
